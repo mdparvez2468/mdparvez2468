@@ -1,6 +1,8 @@
+
+![Native Android Developer | Java & Kotlin](https://res.cloudinary.com/practicaldev/image/fetch/s--62L9hJhF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://github.githubassets.com/images/modules/site/social-cards/package-registry.png)
+
 ## Hi there 👋, I'm Md Parvez
 ### Native Android Developer | Java & Kotlin
-![Native Android Developer | Java & Kotlin](https://res.cloudinary.com/practicaldev/image/fetch/s--62L9hJhF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://github.githubassets.com/images/modules/site/social-cards/package-registry.png)
 
 I am open to collaborating on exciting projects. I am looking for a  challenging and rewarding position as Android Developer with an established organization that can utilize my skills and experience.
 
