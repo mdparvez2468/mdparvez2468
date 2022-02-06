@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋, I'm Md Parvez
+### Native Android Developer | Java & Kotlin
+![Native Android Developer | Java & Kotlin](https://res.cloudinary.com/practicaldev/image/fetch/s--62L9hJhF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://github.githubassets.com/images/modules/site/social-cards/package-registry.png)
+
+I am open to collaborating on exciting projects. I am looking for a  challenging and rewarding position as Android Developer with an established organization that can utilize my skills and experience.
+
+Skills: C, C++, Java, Kotlin, Python, JavaScript, PHP
+
+- 🔭 I’m currently working on Android Development 
+- 🌱 I’m currently learning Data Analysis with Python 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about anything, I am happy to help 
 
 
-**mdparvez2468/mdparvez2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdparvez2468)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-parvez-740285229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100027046177797)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/18129328/md-parvez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://parvez24.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~01c19d0c530f913e06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/parvez24h?up_rollout=true)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/parvezz24h)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning Data Analysis with Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Data Structures and Algorithms
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: ...
-- 😄 Pronouns: Coder, Leader and Kind Hearted
-- ⚡ Fun fact: ...
-
+![Profile views](https://gpvc.arturio.dev/mdparvez2468)  
