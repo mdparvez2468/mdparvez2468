@@ -6,7 +6,7 @@
 
 I am open to collaborating on exciting projects. I am looking for a  challenging and rewarding position as Android Developer with an established organization that can utilize my skills and experience.
 
-Skills: C, C++, Java, Kotlin, Python, JavaScript, PHP
+Skills: C, C++, Java, Kotlin, Python, PHP
 
 - 🔭 I’m currently working on Android Development 
 - 🌱 I’m currently learning Data Analysis with Python 
