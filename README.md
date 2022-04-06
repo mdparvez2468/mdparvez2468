@@ -9,7 +9,7 @@ I am open to collaborating on exciting projects. I am looking for a  challenging
 Skills: C, C++, Java, Kotlin, Python, PHP
 
 - 🔭 I’m currently working on Android Development 
-- 🌱 I’m currently learning Mobile Machine Learning with TensorFlow Lite 
+- 🌱 I’m currently learning Mobile Machine Learning 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about anything, I am happy to help 
 
